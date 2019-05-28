@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mvp-App</string>
+    <string name="edit_message">Seu Nome</string>
+    <string name="button_send">Olá</string>
+</resources>
